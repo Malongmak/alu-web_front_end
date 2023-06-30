@@ -1,1 +1,1 @@
-Wireframe of the Techium project - mobile version
+The README.md file is usually placed at the root directory of the project repository, and it is often displayed prominently on platforms like GitHub, making it the primary source of information for anyone interested in the project. It helps ensure that developers and users have access to vital information about the project, promoting clarity, collaboration, and efficient usage.
